@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"Handlebars",
+		"Hayaku - tools for writing CSS faster",
+		"Package Control",
+		"Predawn"
+	]
+}
